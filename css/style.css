@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color:#e8ddca;margin:0px 0px; }
+
+.Kotak {background-color:white; width:900px;margin:0px auto 0px auto;padding:0px 20px 0px 20px;}
+
+.Logo {float:left;margin:20px 0px;}
+.Icon {float:right;margin:20px 0px;}
+
+.Navigation {clear:both;border-top:solid 1px black;border-bottom:solid 1px black; padding:15px 0px 15px 0px; margin: 20px 0px;}
+
+.Navigation a {color:black;word-spacing:20px;text-decoration:none;font-family:arial;}
+
+.Navigation a:hover {color:orange;}
+
+.Title {color:#BB5E00; border-bottom: solid 1px black; font-family:Arial; margin-right:10px;}
+
+.LeftContent {
+    font-family: Arial;
+    width: 700px;
+    float: left;
+}
+.LeftContent img {border:solid black 1px; padding:10px 10px 10px 10px;}
+
+.RightContent {
+    font-family: Arial;
+    width: 200px;
+	float:right;
+}
+.RightContent h4 {color:#bb5e00;}
+
+.Footer {clear:both;text-align:center; padding:10px; border-top:solid 1px black;}
+
+.Box {background-color:#EEEEEE; width:250px; border-top:solid 10px red;float:left;margin:0px 20px 30px 30px;}
+
+.BoxBox {background-color:#EEEEEE; width:250px; border-top:solid 10px blue;float:left;margin:0px 20px;}
+
+.BoxBoxBox {background-color:#EEEEEE; width:250px; border-top:solid 10px green;float:left;margin:0px 20px;}
